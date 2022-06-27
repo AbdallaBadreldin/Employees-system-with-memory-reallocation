@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1636628813 source:h:\iti\iti tasks\c\forthlec\employeesmemoryalloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1636628813 source:h:\iti\ititasks\c\forthlec\employeesmemoryalloc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
